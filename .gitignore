@@ -1,0 +1,9 @@
+__pycache__
+.ipynb_checkpoints
+.idea
+.json
+jwt
+jwt_token
+setup.sh
+requirements.txt
+submit.png
